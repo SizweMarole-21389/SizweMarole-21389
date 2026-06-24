@@ -24,8 +24,8 @@
 ## 🧭 About Me
 
 I'm an Information Technology student focused on **cybersecurity**, working across both sides
-of the fence — offensive security (web application penetration testing) and defensive security
-(SOC monitoring, detection engineering, and incident response) — with a solid grounding in
+of the fence - offensive security (web application penetration testing) and defensive security
+(SOC monitoring, detection engineering, and incident response) - with a solid grounding in
 **enterprise networking and Windows infrastructure**.
 
 Everything here is hands-on: real labs I built and broke, real findings I documented, and real
@@ -44,13 +44,13 @@ the work speaks for itself.
 ### 🔴 Offensive Security
 | Project | What it shows |
 |---------|---------------|
-| **[Web App Penetration Test — Internship Portal](https://github.com/SizweMarole-21389/internship-portal-security-assessment)** | Full black-box web app pentest: RCE, SQLi, IDOR, stored XSS, JWT flaws → chained to account takeover. CWE / OWASP / CVSS mapped. |
+| **[Web App Penetration Test - Internship Portal](https://github.com/SizweMarole-21389/internship-portal-security-assessment)** | Full black-box web app pentest: RCE, SQLi, IDOR, stored XSS, JWT flaws → chained to account takeover. CWE / OWASP / CVSS mapped. |
 | **[Pentesting Portfolio](https://github.com/SizweMarole-21389/pentesting-portfolio)** | Index of web-app pentest reports and TryHackMe write-ups. |
 
 ### 🔵 Defensive Security
 | Project | What it shows |
 |---------|---------------|
-| **[Blue Team SOC Lab](https://github.com/SizweMarole-21389/blue-team-soc-lab)** | SOC on AWS EC2 with Splunk: brute-force, recon, phishing, PCAP forensics, threat hunting & IR — all MITRE ATT&CK mapped. |
+| **[Blue Team SOC Lab](https://github.com/SizweMarole-21389/blue-team-soc-lab)** | SOC on AWS EC2 with Splunk: brute-force, recon, phishing, PCAP forensics, threat hunting & IR - all MITRE ATT&CK mapped. |
 
 ### 🟢 Infrastructure & Networking
 | Project | What it shows |
