@@ -65,11 +65,11 @@ the work speaks for itself.
 
 ## 🛠️ Skills & Tools
 
-**Offensive:** Burp Suite · SQL injection · XSS · IDOR / broken access control · file-upload RCE · JWT analysis · WAF bypass
-**Defensive:** Splunk SIEM · detection engineering (SPL) · auditd · Wireshark / tcpdump · threat hunting · incident response
-**Networking:** VLANs · inter-VLAN routing · VLSM · OSPF · IPsec VPN · EVE-NG / UNetLab · Cisco
-**Infrastructure:** Windows Server · Active Directory · Hyper-V · Storage Spaces · AWS EC2 · Linux
-**Standards:** OWASP Top 10 / WSTG · MITRE ATT&CK · CVSS v3.1 · POPIA
+- **Offensive:** Burp Suite · SQL injection · XSS · IDOR / broken access control · file-upload RCE · JWT analysis · WAF bypass
+- **Defensive:** Splunk SIEM · detection engineering (SPL) · auditd · Wireshark / tcpdump · threat hunting · incident response
+- **Networking:** VLANs · inter-VLAN routing · VLSM · OSPF · IPsec VPN · EVE-NG / UNetLab · Cisco
+- **Infrastructure:** Windows Server · Active Directory · Hyper-V · Storage Spaces · AWS EC2 · Linux
+- **Standards:** OWASP Top 10 / WSTG · MITRE ATT&CK · CVSS v3.1 · POPIA
 
 <p align="left">
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat&logo=burpsuite&logoColor=white">
