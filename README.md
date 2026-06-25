@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sizwe Marole 👋</h1>
 
 <p align="center">
-  <b>IT student & aspiring cybersecurity professional</b><br>
+  <b>Postgrad IT student & cybersecurity practitioner</b><br>
   Penetration testing · Blue Team / SOC · Enterprise & network design
 </p>
 
@@ -9,6 +9,7 @@
   <a href="https://www.linkedin.com/in/sizwemarole"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/SizweMarole-21389"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="mailto:marolesizwe1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://tryhackme.com/p/SizweMarole"><img src="https://img.shields.io/badge/TryHackMe-Top_1%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
 </p>
 
 <p align="center">
@@ -23,7 +24,7 @@
 
 ## 🧭 About Me
 
-I'm an Information Technology student focused on **cybersecurity**, working across both sides
+I'm a Postgraduate IT student focused on **cybersecurity**, working across both sides
 of the fence - offensive security (web application penetration testing) and defensive security
 (SOC monitoring, detection engineering, and incident response) - with a solid grounding in
 **enterprise networking and Windows infrastructure**.
@@ -39,12 +40,24 @@ the work speaks for itself.
 
 ---
 
+## 🏆 Awards & Recognition
+
+| Award | Year |
+|-------|------|
+| ITWeb Security Summit 2026 Hackathon - Certificate of Participation (IDEATHON) | 2026 |
+| SANReN Cyber Security Challenge - 3rd Place (Team N0T0R10S) | 2025 |
+| Cybersecurity4D / PAICTA - 1st Runner-Up | 2025 |
+| TryHackMe - Top 1% Global | 2025 |
+| CUT Best Student Award | 2025 |
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🔴 Offensive Security
 | Project | What it shows |
 |---------|---------------|
-| **[Web App Penetration Test - Internship Portal](https://github.com/SizweMarole-21389/internship-portal-security-assessment)** | Full black-box web app pentest: RCE, SQLi, IDOR, stored XSS, JWT flaws → chained to account takeover. CWE / OWASP / CVSS mapped. |
+| **[Web App Penetration Test - Internship Portal](https://github.com/SizweMarole-21389/internship-portal-security-assessment)** | Full black-box web app pentest: RCE, SQLi, IDOR, stored XSS, JWT flaws chained to account takeover. CWE / OWASP / CVSS mapped. |
 | **[Pentesting Portfolio](https://github.com/SizweMarole-21389/pentesting-portfolio)** | Index of web-app pentest reports and TryHackMe write-ups. |
 
 ### 🔵 Defensive Security
