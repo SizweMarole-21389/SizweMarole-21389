@@ -73,6 +73,7 @@ the work speaks for itself.
 | **[Enterprise Network Design](https://github.com/SizweMarole-21389/enterprise-network-design)** | Secure, redundant LAN / data centre / VPN design for a mid-sized organisation. |
 | **[WAN Network Design](https://github.com/SizweMarole-21389/wan-network-design)** | WAN topology with VLSM subnetting and EVE-NG/UNetLab simulation. |
 | **[Telco Network Project (WIL)](https://github.com/SizweMarole-21389/telco-network-project)** | Work-Integrated Learning telecommunications network design & documentation. |
+| **[EduStream Cloud Architecture Portfolio](https://github.com/SizweMarole-21389/edustream-cloud-architecture-portfolio)** | Full Azure cloud architecture design: adoption strategy, IaC (Bicep), CI/CD, blue-green releases, observability, and cost modelling. |
 | **[Wi-Fi Smart Streetlights](https://github.com/SizweMarole-21389/wifi-smart-streetlights)** | Smart-city IoT research project: design, survey, and ethics. |
 
 ---
