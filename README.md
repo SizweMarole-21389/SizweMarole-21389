@@ -58,7 +58,7 @@ the work speaks for itself.
 ### 🔴 Offensive Security
 | Project | What it shows |
 |---------|---------------|
-| **[Web App Penetration Test - Internship Portal](https://github.com/SizweMarole-21389/internship-portal-security-assessment)** | Full black-box web app pentest: RCE, SQLi, IDOR, stored XSS, JWT flaws chained to account takeover. CWE / OWASP / CVSS mapped. |
+| **[Web Application Penetration Test](https://github.com/SizweMarole-21389/web-application-penetration-test)** | Full black-box web app pentest: RCE, SQLi, IDOR, stored XSS, JWT flaws chained to account takeover. CWE / OWASP / CVSS mapped. |
 | **[Pentesting Portfolio](https://github.com/SizweMarole-21389/pentesting-portfolio)** | Index of web-app pentest reports and TryHackMe write-ups. |
 
 ### 🔵 Defensive Security
