@@ -53,6 +53,18 @@ the work speaks for itself.
 
 ---
 
+## 📜 Certifications
+
+| Certification | Issuer | Issued | Credential ID |
+|---|---|---|---|
+| MWR Virtual Internship | MWR CyberSec | Jul 2026 | `CCB1AEF153EC4E149F565D90D66747DD759A0E4019AD0785634346A178CEE006` |
+| Microsoft Certified: Azure Fundamentals (AZ-900) | Microsoft | Oct 2024 | Verify via [Microsoft Learn](https://learn.microsoft.com/) |
+| Cyber Security 101 | TryHackMe | Mar 2026 | `THM-ZJWYWLITTQ` |
+| Pre Security | TryHackMe | Feb 2026 | `THM-3WS3GJKWPP` |
+| Network Security | Cisco Networking Academy | May 2024 | — |
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🔴 Offensive Security
