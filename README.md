@@ -10,6 +10,7 @@
   <a href="https://github.com/SizweMarole-21389"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="mailto:marolesizwe1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://tryhackme.com/p/ketladinna"><img src="https://img.shields.io/badge/TryHackMe-Top_1%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
+  <a href="Sizwe_Marole_CV.pdf"><img src="https://img.shields.io/badge/CV-Download-success?style=for-the-badge&logo=readdotcv&logoColor=white"></a>
 </p>
 
 <p align="center">
