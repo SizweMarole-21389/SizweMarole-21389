@@ -9,7 +9,6 @@
   <a href="https://www.linkedin.com/in/sizwemarole"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/SizweMarole-21389"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="mailto:marolesizwe1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://tryhackme.com/p/ketladinna"><img src="https://img.shields.io/badge/TryHackMe-Top_1%25-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
   <a href="https://github.com/SizweMarole-21389/SizweMarole-21389/blob/master/Sizwe_Marole_CV.pdf"><img src="https://img.shields.io/badge/CV-Download-success?style=for-the-badge"></a>
 </p>
 
@@ -51,8 +50,7 @@ the work speaks for itself.
 | ITWeb Security Summit 2026 Hackathon - Certificate of Participation (IDEATHON) | 2026 |
 | SANReN Cyber Security Challenge - 3rd Place (Team N0T0R10S) | 2025 |
 | Cybersecurity4D / PAICTA - 1st Runner-Up | 2025 |
-| TryHackMe - Top 1% Global | 2025 |
-| CUT Best Student Award | 2025 |
+| CUT Best Student Award (Advanced Diploma: Computer Networking) | 2025 |
 
 ---
 
@@ -60,11 +58,18 @@ the work speaks for itself.
 
 | Certification | Issuer | Issued | Credential ID |
 |---|---|---|---|
-| MWR Virtual Internship | MWR CyberSec | Jul 2026 | `CCB1AEF153EC4E149F565D90D66747DD759A0E4019AD0785634346A178CEE006` |
 | Microsoft Certified: Azure Fundamentals (AZ-900) | Microsoft | Oct 2024 | Verify via [Microsoft Learn](https://learn.microsoft.com/) |
-| Cyber Security 101 | TryHackMe | Mar 2026 | `THM-ZJWYWLITTQ` |
-| Pre Security | TryHackMe | Feb 2026 | `THM-3WS3GJKWPP` |
 | Network Security | Cisco Networking Academy | May 2024 | — |
+| NDG Linux Essentials | NDG / Cisco Networking Academy | May 2024 | — |
+| IT Essentials: PC Hardware and Software | Cisco Networking Academy | Nov 2022 | — |
+
+**Programmes & training completed**
+
+| Programme | Provider | Completed |
+|---|---|---|
+| Cybersecurity Virtual Internship | MWR CyberSec | Jul 2026 |
+| Cyber Security 101 (learning path) | TryHackMe | Mar 2026 |
+| Pre Security (learning path) | TryHackMe | Feb 2026 |
 
 ---
 
