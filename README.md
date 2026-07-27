@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Sizwe Marole 👋</h1>
 
 <p align="center">
-  <b>Postgrad IT student & cybersecurity practitioner</b><br>
-  Penetration testing · Blue Team / SOC · Enterprise & network design
+  <b>Computer Networking graduate (Cum Laude) · Postgraduate IT student</b><br>
+  Networks & infrastructure · Security specialisation: offensive & blue team
 </p>
 
 <p align="center">
@@ -14,10 +14,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Offensive-Web%20App%20Pentesting-black?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Defensive-Blue%20Team%20%2F%20SOC-blue?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Networking-LAN%20%2F%20WAN%20%2F%20AD-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Base-Networking%20%26%20Infrastructure-orange?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Networking-LAN%20%2F%20WAN%20%2F%20AD-1BA0D7?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Security-Web%20App%20Pentesting-black?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Security-Blue%20Team%20%2F%20SOC-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Location-South%20Africa-007749?style=for-the-badge">
 </p>
 
@@ -25,17 +25,20 @@
 
 ## 🧭 About Me
 
-I'm a Postgraduate IT student focused on **cybersecurity**, working across both sides
-of the fence - offensive security (web application penetration testing) and defensive security
-(SOC monitoring, detection engineering, and incident response) - with a solid grounding in
-**enterprise networking and Windows infrastructure**.
+I'm a **Computer Networking** graduate (Advanced Diploma, Cum Laude - CUT Best Student 2025),
+now doing a **Postgraduate Diploma in IT**. My foundation is enterprise networking and Windows
+infrastructure - routing and switching, VLANs, WAN design, Active Directory, servers.
+
+On top of that base I specialise in **security**: web application penetration testing on the
+offensive side, and SOC monitoring, detection engineering and incident response on the defensive
+side. Networks are what I understand; securing them is what I'm building a career on.
 
 Everything here is hands-on: real labs I built and broke, real findings I documented, and real
 reports written the way they'd be delivered to a client. I learn by doing and write it all up so
 the work speaks for itself.
 
-- 🔭 Building practical offensive **and** defensive security labs
-- 🌱 Deepening my skills in web app security, threat detection, and network architecture
+- 🔭 Building practical network, infrastructure and security labs
+- 🌱 Deepening my skills in network architecture, web app security and threat detection
 - 🛡️ Methodologies I work to: **OWASP Top 10 / WSTG**, **MITRE ATT&CK**, **CVSS v3.1**
 - 📫 Reach me: **marolesizwe1@gmail.com**
 
@@ -67,35 +70,34 @@ the work speaks for itself.
 
 ## 🚀 Featured Projects
 
-### 🔴 Offensive Security
+### 🟢 Networking & Infrastructure
 | Project | What it shows |
 |---------|---------------|
-| **[Web Application Penetration Test](https://github.com/SizweMarole-21389/web-application-penetration-test)** | Full black-box web app pentest: RCE, SQLi, IDOR, stored XSS, JWT flaws chained to account takeover. CWE / OWASP / CVSS mapped. |
-| **[Pentesting Portfolio](https://github.com/SizweMarole-21389/pentesting-portfolio)** | Index of web-app pentest reports and TryHackMe write-ups. |
+| **[Enterprise Network Design](https://github.com/SizweMarole-21389/enterprise-network-design)** | Secure, redundant LAN / data centre / VPN design for a mid-sized organisation. |
+| **[WAN Network Design](https://github.com/SizweMarole-21389/wan-network-design)** | WAN topology with VLSM subnetting and EVE-NG/UNetLab simulation. |
+| **[Telco Network Project (WIL)](https://github.com/SizweMarole-21389/telco-network-project)** | Work-Integrated Learning telecommunications network design & documentation. |
+| **[Hybrid Server Infrastructure Lab](https://github.com/SizweMarole-21389/hybrid-server-infrastructure-lab)** | Hyper-V, Active Directory, Storage Spaces, FSRM, deduplication & Windows Server hardening. |
+| **[EduStream Cloud Architecture Portfolio](https://github.com/SizweMarole-21389/edustream-cloud-architecture-portfolio)** | Full Azure cloud architecture design: adoption strategy, IaC (Bicep), CI/CD, blue-green releases, observability, and cost modelling. |
 
 ### 🔵 Defensive Security
 | Project | What it shows |
 |---------|---------------|
 | **[Blue Team SOC Lab](https://github.com/SizweMarole-21389/blue-team-soc-lab)** | SOC on AWS EC2 with Splunk: brute-force, recon, phishing, PCAP forensics, threat hunting & IR - all MITRE ATT&CK mapped. |
 
-### 🟢 Infrastructure & Networking
+### 🔴 Offensive Security
 | Project | What it shows |
 |---------|---------------|
-| **[Hybrid Server Infrastructure Lab](https://github.com/SizweMarole-21389/hybrid-server-infrastructure-lab)** | Hyper-V, Active Directory, Storage Spaces, FSRM, deduplication & Windows Server hardening. |
-| **[Enterprise Network Design](https://github.com/SizweMarole-21389/enterprise-network-design)** | Secure, redundant LAN / data centre / VPN design for a mid-sized organisation. |
-| **[WAN Network Design](https://github.com/SizweMarole-21389/wan-network-design)** | WAN topology with VLSM subnetting and EVE-NG/UNetLab simulation. |
-| **[Telco Network Project (WIL)](https://github.com/SizweMarole-21389/telco-network-project)** | Work-Integrated Learning telecommunications network design & documentation. |
-| **[EduStream Cloud Architecture Portfolio](https://github.com/SizweMarole-21389/edustream-cloud-architecture-portfolio)** | Full Azure cloud architecture design: adoption strategy, IaC (Bicep), CI/CD, blue-green releases, observability, and cost modelling. |
-| **[Wi-Fi Smart Streetlights](https://github.com/SizweMarole-21389/wifi-smart-streetlights)** | Smart-city IoT research project: design, survey, and ethics. |
+| **[Web Application Penetration Test](https://github.com/SizweMarole-21389/web-application-penetration-test)** | Full black-box web app pentest: RCE, SQLi, IDOR, stored XSS, JWT flaws chained to account takeover. CWE / OWASP / CVSS mapped. |
+| **[Pentesting Portfolio](https://github.com/SizweMarole-21389/pentesting-portfolio)** | Index of web-app pentest reports and TryHackMe write-ups. |
 
 ---
 
 ## 🛠️ Skills & Tools
 
-- **Offensive:** Burp Suite · SQL injection · XSS · IDOR / broken access control · file-upload RCE · JWT analysis · WAF bypass
-- **Defensive:** Splunk SIEM · detection engineering (SPL) · auditd · Wireshark / tcpdump · threat hunting · incident response
 - **Networking:** VLANs · inter-VLAN routing · VLSM · OSPF · IPsec VPN · EVE-NG / UNetLab · Cisco
-- **Infrastructure:** Windows Server · Active Directory · Hyper-V · Storage Spaces · AWS EC2 · Linux
+- **Infrastructure:** Windows Server · Active Directory · Hyper-V · Storage Spaces · AWS EC2 · Azure · Linux
+- **Defensive security:** Splunk SIEM · detection engineering (SPL) · auditd · Wireshark / tcpdump · threat hunting · incident response
+- **Offensive security:** Burp Suite · SQL injection · XSS · IDOR / broken access control · file-upload RCE · JWT analysis · WAF bypass
 - **Standards:** OWASP Top 10 / WSTG · MITRE ATT&CK · CVSS v3.1 · POPIA
 
 <p align="left">
