@@ -95,6 +95,11 @@ the work speaks for itself.
 | **[Web Application Penetration Test](https://github.com/SizweMarole-21389/web-application-penetration-test)** | Full black-box web app pentest: RCE, SQLi, IDOR, stored XSS, JWT flaws chained to account takeover. CWE / OWASP / CVSS mapped. |
 | **[Pentesting Portfolio](https://github.com/SizweMarole-21389/pentesting-portfolio)** | Index of web-app pentest reports and TryHackMe write-ups. |
 
+### 🤖 AI / Machine Learning
+| Project | What it shows |
+|---------|---------------|
+| **[Qhaphela - AI Job Fraud Detection](https://github.com/Mo-lemi/Isazi-job-fraud-detection)** | Chrome extension + FastAPI service scoring job postings for fraud with a scikit-learn Random Forest / TF-IDF model and SHAP explanations, built for South African job seekers. UNESCO Youth Hackathon 2026 entry, co-built with Molemi Molokoane. |
+
 ---
 
 ## 🛠️ Skills & Tools
