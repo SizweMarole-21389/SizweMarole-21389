@@ -47,7 +47,7 @@ the work speaks for itself.
 
 | Award | Year |
 |-------|------|
-| ITWeb Security Summit 2026 Hackathon - Certificate of Participation (IDEATHON) | 2026 |
+| ITWeb Security Summit 2026 Hackathon - CTF Blue Teaming challenge (Team N0T0R10S) | 2026 |
 | SANReN Cyber Security Challenge - 3rd Place (Team N0T0R10S) | 2025 |
 | Cybersecurity4D / PAICTA - 1st Runner-Up | 2025 |
 | CUT Best Student Award (Advanced Diploma: Computer Networking) | 2025 |
