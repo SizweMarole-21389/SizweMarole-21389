@@ -18,7 +18,7 @@ I am looking for entry-level roles in IT support, networking, systems and securi
 
 - Advanced Diploma in Computer Networking, Central University of Technology, cum laude (NQF 7). Infrastructure Design 99, Computer Server's Administration 90, Information Security 84. Average 80.9.
 - Postgraduate Diploma in Information Technology, Central University of Technology, in progress (distance learning). Results to date: Ethical Hacking 91, Advanced Research Project 83.
-- Twelve months as a Computer Networking Intern at Oktiq IOT (Pty) Ltd, 20 Nov 2024 to 20 Nov 2025, placed at Motheo TVET College supporting a live campus network: first and second line support, Cisco equipment, Active Directory and log monitoring.
+- Twelve months as a Computer Networking Intern at Oktiq IOT (Pty) Ltd, 20 Nov 2024 to 20 Nov 2025, placed at Motheo TVET College supporting a live campus network: first and second line support, Cisco and MikroTik equipment, Active Directory and log monitoring.
 - MWR CyberSec virtual internship: sixteen weeks of web application security testing and reporting.
 - Microsoft Azure Fundamentals (AZ-900), Cisco Networking Academy Network Security and NDG Linux Essentials, all 2024. Studying for CompTIA Security+. Not yet certified.
 
