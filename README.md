@@ -2,7 +2,7 @@
 
 Networking graduate in Johannesburg. I build and document labs, test web applications, and write up the findings the way a client would receive them.
 
-I am looking for junior SOC, security operations, network administration, IT infrastructure and graduate technology roles.
+I am looking for entry-level roles in IT support, networking, systems and security.
 
 ## Evidence
 
@@ -16,24 +16,24 @@ I am looking for junior SOC, security operations, network administration, IT inf
 
 ## Background
 
-- Advanced Diploma in Computer Networking, Central University of Technology, cum laude (NQF 7). Infrastructure Design 99, Computer Server's Administration 90, Information Security 84.
-- Postgraduate Diploma in Information Technology, Central University of Technology, in progress (distance learning).
-- Twelve months supporting a live campus network at Motheo TVET College through Oktiq IoT: first and second line support, Cisco and MikroTik equipment, Active Directory and log monitoring.
+- Advanced Diploma in Computer Networking, Central University of Technology, cum laude (NQF 7). Infrastructure Design 99, Computer Server's Administration 90, Information Security 84. Average 80.9.
+- Postgraduate Diploma in Information Technology, Central University of Technology, in progress (distance learning). Results to date: Ethical Hacking 91, Advanced Research Project 83.
+- Twelve months as a Computer Networking Intern at Oktiq IOT (Pty) Ltd, 20 Nov 2024 to 20 Nov 2025, placed at Motheo TVET College supporting a live campus network: first and second line support, Cisco equipment, Active Directory and log monitoring.
 - MWR CyberSec virtual internship: sixteen weeks of web application security testing and reporting.
-- Studying for CompTIA Security+. Not yet certified.
+- Microsoft Azure Fundamentals (AZ-900), Cisco Networking Academy Network Security and NDG Linux Essentials, all 2024. Studying for CompTIA Security+. Not yet certified.
 
 ## Practice outside coursework
 
 - SANReN Cyber Security Challenge 2025: my team placed third nationally.
-- PAICTA Cybersecurity4D 2025: first runner up at SADC level.
+- PAICTA Cybersecurity4D Student Challenge 2025: first runner up.
 - ITWeb Security Summit 2026 hackathon: the blue teaming challenge, with Team N0T0R10S.
 - TryHackMe: global top 1 percent, with the Pre Security and Cyber Security 101 paths completed. Profile: [ketladinna](https://tryhackme.com/p/ketladinna).
 
 ## Tools I have used
 
-- **Networking:** Cisco routing and switching, VLANs, VLSM, IPsec VPN, EVE-NG
+- **Networking:** Cisco routing and switching, VLANs, VLSM, EVE-NG
 - **Infrastructure:** Windows Server, Active Directory, Group Policy, Hyper-V, Linux
-- **Security testing:** Burp Suite, Nmap, Nessus, manual SQL injection and XSS testing, JWT analysis
+- **Security testing:** Burp Suite, Nmap, manual SQL injection and XSS testing, JWT analysis
 - **Security operations:** Splunk, auditd, Wireshark, tcpdump, MITRE ATT&CK
 - **Scripting and development:** Python, FastAPI, Bash, Git
 
