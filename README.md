@@ -14,7 +14,7 @@ I am looking for entry-level roles in IT support, networking, systems and securi
 | Brute force authentication and explain why it fails | [HydraBruteForceLab](https://github.com/SizweMarole-21389/HydraBruteForceLab): Hydra against a web login form and SSH, a wordlist that needed URL encoding before it would match, and a CSRF token that defeats a normal Hydra run against DVWA, fixed with a small Python script that fetches a fresh token per attempt. |
 | Build and harden Windows infrastructure | [hybrid-server-infrastructure-lab](https://github.com/SizweMarole-21389/hybrid-server-infrastructure-lab): Hyper-V, Active Directory, Storage Spaces, FSRM quotas, deduplication and Windows Server Backup, documented step by step with screenshots. |
 | Design networks | [enterprise-network-design](https://github.com/SizweMarole-21389/enterprise-network-design) (redundant LAN, data centre and VPN design), [wan-network-design](https://github.com/SizweMarole-21389/wan-network-design) (VLSM addressing plan and an EVE-NG topology) and [telco-network-project](https://github.com/SizweMarole-21389/telco-network-project) (work integrated learning design). |
-| Build software in a team | [Qhaphela](https://github.com/Mo-lemi/Qhaphela-Know-before-you-apply): a Chrome extension and FastAPI service that scores job advertisements for recruitment fraud, built with a teammate for the UNESCO Youth Hackathon 2026. I made 34 of the repository's 54 commits. |
+| Build software in a team | [Qhaphela](https://github.com/Mo-lemi/Qhaphela-Know-before-you-apply): a Chrome extension and FastAPI service that scores job advertisements for recruitment fraud, built with a teammate for the UNESCO Youth Hackathon 2026.|
 
 ## Background
 
