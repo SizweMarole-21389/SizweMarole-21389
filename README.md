@@ -31,6 +31,13 @@ I am looking for entry-level roles in IT support, networking, systems and securi
 - ITWeb Security Summit 2026 hackathon: the blue teaming challenge, with Team N0T0R10S.
 - TryHackMe: global top 1 percent, with the Pre Security and Cyber Security 101 paths completed. Profile: [ketladinna](https://tryhackme.com/p/ketladinna).
 
+## Certificates and programmes
+
+- UNESCO Youth Hackathon 2026: certificate of participation, issued 2 November 2026 by UNESCO Media and Information Literacy.
+- CyberGame 2026 (SK-CERT, National Cyber Security Centre of Slovakia): player certificate, digitally signed, 1 June 2026.
+- MWR CyberSec Virtual Internship: certificate of completion, issued 8 July 2026 after the capstone report was graded.
+- CYBR Z Programme (CyberDistro): selected for the international cohort, September 2026.
+
 ## Tools I have used
 
 - **Networking:** Cisco routing and switching, VLANs, VLSM, EVE-NG
