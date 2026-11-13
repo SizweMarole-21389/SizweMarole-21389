@@ -31,6 +31,18 @@ I am looking for entry-level roles in IT support, networking, systems and securi
 - ITWeb Security Summit 2026 hackathon: the blue teaming challenge, with Team N0T0R10S.
 - TryHackMe: global top 1 percent, with the Pre Security and Cyber Security 101 paths completed. Profile: [ketladinna](https://tryhackme.com/p/ketladinna).
 
+## Tracks
+
+- **Penetration testing:** [web-application-penetration-test](https://github.com/SizweMarole-21389/web-application-penetration-test) and [HydraBruteForceLab](https://github.com/SizweMarole-21389/HydraBruteForceLab).
+- **SOC and blue team:** [blue-team-soc-lab](https://github.com/SizweMarole-21389/blue-team-soc-lab) and [vpn-compromise-investigation](https://github.com/SizweMarole-21389/vpn-compromise-investigation).
+- **Network engineering:** [enterprise-network-design](https://github.com/SizweMarole-21389/enterprise-network-design), [wan-network-design](https://github.com/SizweMarole-21389/wan-network-design) and [telco-network-project](https://github.com/SizweMarole-21389/telco-network-project).
+- **Infrastructure:** [hybrid-server-infrastructure-lab](https://github.com/SizweMarole-21389/hybrid-server-infrastructure-lab).
+
+## Browser games I built
+
+- [Ludo for Two](https://github.com/SizweMarole-21389/ludo): play Ludo with a friend in the browser, on any network. Has its own rules test with 2000 simulated games. [Play](https://sizwemarole-21389.github.io/ludo/)
+- [2 Minutes](https://github.com/SizweMarole-21389/30-seconds): a two player describe-it party game with 2 minute turns and about 1,700 items. [Play](https://sizwemarole-21389.github.io/30-seconds/)
+
 ## Certificates and programmes
 
 - UNESCO Youth Hackathon 2026: certificate of participation, issued 2 November 2026 by UNESCO Media and Information Literacy.
