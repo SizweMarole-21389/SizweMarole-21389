@@ -41,6 +41,8 @@ I am looking for entry-level roles in IT support, networking, systems and securi
 
 ## Certificates and programmes
 
+- SANReN Cyber Security Challenge 2025: certificate for placing 3rd in the Final, presented by the South African National Research Network.
+- Cybersecurity4D Student Challenge 2025: certificate of achievement as 1st Runner-up, issued 22 August 2025 by PAICTA, with the CSIR and IEEE.
 - UNESCO Youth Hackathon 2026: certificate of participation, issued 2 November 2026 by UNESCO Media and Information Literacy.
 - CyberGame 2026 (SK-CERT, National Cyber Security Centre of Slovakia): player certificate, digitally signed, 1 June 2026.
 - TryHackMe The Cyber Trials: certificate of participation, issued 13 November 2026 by TryHackMe.
