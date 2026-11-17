@@ -58,6 +58,6 @@ Methods I work to: OWASP Top 10 and WSTG, CVSS v3.1, CWE.
 
 ## Contact
 
-[marolesizwe1@gmail.com](mailto:marolesizwe1@gmail.com) | [CV](https://github.com/SizweMarole-21389/SizweMarole-21389/blob/master/Sizwe_Marole_CV.pdf)
+[marolesizwe1@gmail.com](mailto:marolesizwe1@gmail.com)
 
 All security testing in these repositories was done in authorised lab environments.
