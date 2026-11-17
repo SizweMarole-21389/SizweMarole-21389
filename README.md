@@ -44,7 +44,7 @@ I am looking for entry-level roles in IT support, networking, systems and securi
 - UNESCO Youth Hackathon 2026: certificate of participation, issued 2 November 2026 by UNESCO Media and Information Literacy.
 - CyberGame 2026 (SK-CERT, National Cyber Security Centre of Slovakia): player certificate, digitally signed, 1 June 2026.
 - TryHackMe The Cyber Trials: certificate of participation, issued 13 November 2026 by TryHackMe.
-- ITWeb Security Summit 2026 hackathon: certificate of participation.
+- ITWeb Security Summit 2026 hackathon: certificate of participation, issued 23 June 2026 by ITWeb and Geekulcha, for the CTF Blue Teaming challenge with Team N0T0R10S.
 - MWR CyberSec Virtual Internship: certificate of completion, issued 8 July 2026 after the capstone report was graded.
 - CYBR Z Programme (CyberDistro): selected for the international cohort, September 2026.
 
