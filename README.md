@@ -31,6 +31,7 @@ I am looking for entry-level roles in IT support, networking, systems and securi
 - SANReN Cyber Security Challenge 2025: placed third in the national Final, with my team.
 - PAICTA Cybersecurity4D Student Challenge 2025: first runner up, certificate dated 22 August 2025.
 - ITWeb Security Summit 2026 hackathon, 23 June 2026: the CTF blue teaming challenge, with Team N0T0R10S.
+- ScaryCon 2026: took part in the capture the flag competition.
 - TryHackMe: global top 1 percent, with the Pre Security and Cyber Security 101 paths completed, and The Cyber Trials (certificate, 13 November 2026). Profile: [ketladinna](https://tryhackme.com/p/ketladinna).
 
 ## Tracks
