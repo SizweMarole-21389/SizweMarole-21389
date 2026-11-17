@@ -19,11 +19,15 @@ I am looking for entry-level roles in IT support, networking, systems and securi
 
 ## Background
 
-- Advanced Diploma in Computer Networking, Central University of Technology, cum laude (NQF 7). Infrastructure Design 99, Computer Server's Administration 90, Information Security 84. Average 80.9.
-- Postgraduate Diploma in Information Technology, Central University of Technology, in progress (distance learning). Results to date: Ethical Hacking 91, Advanced Research Project 83.
+In order, oldest first.
+
+- Microsoft Azure Fundamentals (AZ-900), Cisco Networking Academy Network Security and NDG Linux Essentials, all 2024.
 - Twelve months as a Computer Networking Intern at Oktiq IOT (Pty) Ltd, 20 Nov 2024 to 20 Nov 2025, placed at Motheo TVET College supporting a live campus network: first and second line support, Cisco and MikroTik equipment, Active Directory and log monitoring.
-- MWR CyberSec virtual internship: sixteen weeks of web application security testing and reporting.
-- Microsoft Azure Fundamentals (AZ-900), Cisco Networking Academy Network Security and NDG Linux Essentials, all 2024. Studying for CompTIA Security+. Not yet certified.
+- Diploma in Computer Networking, Central University of Technology, cum laude, 2025.
+- Advanced Diploma in Computer Networking, Central University of Technology, cum laude (NQF 7), 2026. Infrastructure Design 99, Computer Server's Administration 90, Information Security 84. Average 80.9.
+- MWR CyberSec virtual internship: sixteen weeks of web application security testing and reporting, completed July 2026.
+- Postgraduate Diploma in Information Technology, Central University of Technology, in progress (distance learning). Results to date: Ethical Hacking 91, Advanced Research Project 83.
+- Studying for CompTIA Security+. Not yet certified.
 
 ## Practice outside coursework
 
